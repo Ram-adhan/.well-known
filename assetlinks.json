@@ -8,15 +8,5 @@
 				"A1:05:1F:AE:24:32:2B:E4:34:9E:A3:FC:CB:E4:CA:A8:06:61:2D:32:8F:95:52:09:39:5C:67:ED:A1:12:18:E0"
 			]
 		}
-	},
-	{
-		"relation": ["delegate_permission/common.handle_all_urls"],
-		"target": {
-			"namespace": "android_app",
-			"package_name": "id.ist.newmb.btn.sit",
-			"sha256_cert_fingerprints": [
-				"A1:05:1F:AE:24:32:2B:E4:34:9E:A3:FC:CB:E4:CA:A8:06:61:2D:32:8F:95:52:09:39:5C:67:ED:A1:12:18:E0"
-			]
-		}
 	}
 ]
