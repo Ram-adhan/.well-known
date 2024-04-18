@@ -5,7 +5,8 @@
 			"namespace": "android_app",
 			"package_name": "id.ist.newmb.btn.uat",
 			"sha256_cert_fingerprints": [
-				"A1:05:1F:AE:24:32:2B:E4:34:9E:A3:FC:CB:E4:CA:A8:06:61:2D:32:8F:95:52:09:39:5C:67:ED:A1:12:18:E0"
+				"A1:05:1F:AE:24:32:2B:E4:34:9E:A3:FC:CB:E4:CA:A8:06:61:2D:32:8F:95:52:09:39:5C:67:ED:A1:12:18:E0",
+				"19:F0:B6:A9:48:FC:6C:D7:AA:25:13:E5:1C:47:E8:C6:EC:BC:4F:3F:B7:B7:91:F9:4D:1E:47:8C:E5:BB:09:B1"
 			]
 		}
 	}
